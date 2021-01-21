@@ -1,0 +1,22 @@
+
+  body {color: white;
+
+    background-image: url('sparkle.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;}
+
+  h1 {color:lawngreen;}
+  h3 {color:lawngreen;}
+
+  hr {border-style: none; height: 5px; background-image: url('horizontal.gif');
+      background-repeat: no-repeat;
+    background-size: cover;}
+
+      input[type=color] {border-style: none; background-image: linear-gradient(to right, deeppink, orange, yellow, limegreen, aqua, blue, indigo, darkorchid);}
+      input[type=submit] {background-image: linear-gradient(to right, magenta, orange, yellow, limegreen, aqua, indigo, mediumpurple); color:Purple}
+      input[type=button] {background-image: linear-gradient(to right, magenta, orange, yellow, limegreen, aqua, indigo, mediumpurple); color:white}
+      input[type=file] {background-image: linear-gradient(to right, magenta, orange, yellow, limegreen, aqua, indigo, mediumpurple); color:white}
+      input[type=text] {background-image: linear-gradient(to right, magenta, orange, yellow, limegreen, aqua, indigo, mediumpurple);color:blue}
+      input[type=email] {background-image: linear-gradient(to right, magenta, orange, yellow, limegreen, aqua, indigo, mediumpurple);color:blue}
+      textarea {background-image: linear-gradient(to right, deeppink, orange, yellow, limegreen, aqua, indigo, mediumpurple);color:blue}
